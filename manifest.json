@@ -1,0 +1,9 @@
+{
+    "$schema": "https://schemas.cute.engineering/stable/cutekit.manifest.component.v1",
+    "id": "ce-dummy",
+    "type": "lib",
+    "description": "Cute Engineering Dummy Library",
+    "props": {
+        "cpp-root-include": true
+    }
+}
